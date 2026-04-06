@@ -1,0 +1,28 @@
+# Dataset (too large for git - download from Kaggle)
+*.csv
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environment
+.env
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Design docs (internal)
+docs/
+
+# Database files
+*.db
+
+# Assessment PDF (original prompt)
+Tech Assessment*
+
+# Report generator scripts
+generate_report.py
+generate_pdf_report.py
